@@ -28,7 +28,7 @@ public class Aree {
 	}
 
 	public static int rombo(int diagMag,int diagMin) {
-		return diagMag*diagMin/2;
+		return diagMag*diagMin;
 	}
 }
 
